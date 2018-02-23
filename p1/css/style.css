@@ -2,7 +2,6 @@ body {
     background-color: aqua
 }
 .div-items {
-/*    position: relative;*/
     position: relative;
     border: 1px solid #000;
     padding: 30px;
